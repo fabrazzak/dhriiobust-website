@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "title": "Bookkeeping",
+      "subtitle": "Accounting & Bookkeeping Services",
+      "description": "Dini Robust is the one stop solution for all your accounting and bookkeeping needs. By outsourcing bookkeeping to us, you can have real time insights for your business.",
+      "mainImage": "/assets/images/booking.png",      
+      "detailsImage": "/assets/images/booking-details.png",      
+      "servicesList": [
+        "Document Management",
+        "Month End & Year End Closing Entries",
+        "Accounts Payable / Accounts Receivable",
+        "Cash Flow Statements",
+        "Industry Specific & Custom Processes",
+        "Bank, Credit Card & Loan Account Reconciliation",
+        "Real time Bookkeeping",
+        "Financial Statement Analysis",
+        "Payroll Processing"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Taxation",
+      "subtitle": "Taxation Services",
+      "description": "Dini Robust have a team of experts which ensures that all the tax filings are accurate, seamless and compliant to tax laws to avoid errors and penalties in a cost-efficient way.",
+      "mainImage":  "/assets/images/taxition.png",
+      "detailsImage": "/assets/images/booking-details.png",  
+   
+      "servicesList": [
+        "Tax Planning and Strategy",
+        "Multi state tax management",
+        "Partnership Returns",
+        "Sales Tax Returns",
+        "S-Corp / C-Corp Returns",
+        "NFP Returns",
+        "International Taxation Compliances",
+        "Tax Resolutions",
+        "Tax Projection & Tax Estimates"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Audit",
+      "subtitle": "Audit & Assurance Services",
+      "description": "In today's financial landscapes, Auditing and Assurance demand more than just compliance - they require strategic insights, meticulous accuracy and unwavering reliability.",
+      "mainImage":  "/assets/images/audit-services.png",
+      "detailsImage": "/assets/images/booking-details.png",      
+      
+      "servicesList": [
+        "Internal audit",
+        "Compliance and regulatory audit",
+        "Customized audit (Agreed upon Procedures)"
+      ]
+    }
+  ]

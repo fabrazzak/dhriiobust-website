@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+
+
+/* start css  */
+
+.active-nav-item::after {
+  position: absolute;
+  width: 15px;
+  height: 10px;
+  content: "";
+  bottom: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-image: url('/assets/images/active-mark.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.contact-us {
+  background-image: linear-gradient(90deg, #0000, #36363600 47%, #f7f7f7 47%, #f7f7f7), linear-gradient(#0000, #cbd9e4);
+
+}
+
+.career-q-title{
+  position: relative;
+ 
+}
+.career-q-title::after{
+  position: absolute;
+  left: 0;
+  content: '';
+  height: 30px;
+  width: 5px;
+  margin-left:-30px ;
+
+  background-color: red;
+}
+
+
+
+/* Mobile & Tablet: 1024px and below */
+@media (max-width: 1024px) {
+  .contact-us {
+    background: #f7f7f7; /* Solid color background */
+  }
+}
